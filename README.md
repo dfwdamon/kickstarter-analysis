@@ -13,6 +13,12 @@ An analysis was performed using the Kickstarter dataset of crowdfunding projects
 
 ### Analysis of Outcomes Based on Launch Date
 
+
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
+
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
