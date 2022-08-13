@@ -2,24 +2,22 @@
 
 ## Overview of Project
 
-
 ### Purpose
 The purpose of the analysis is to provide Louise (client) with an opinion on how different campaigns faired in relation to their launch dates and their funding goals.  The clients play _Fever_ came close to its fundraising goal in a short amount of time and additional analysis based on other performances from the Kickstarter dataset were assessed in order to determine and visualize those campaign outcomes based primarily on launch dates and funding goal data.  
 
 ## Analysis and Challenges
 
-### The How
-An analysis was performed using the Kickstarter dataset of crowdfunding projects. This data set contained historical data of various US region projects covering categories such as film, music, games, technology, theater, video and other subjects, where money was raised in order to produce and present numerous public and private performances.  These performances included a large set of approximately 41 subcategories of entertainment covering animation, documentary, drama, music, musicals, plays and television productions.  The analysis utilized Excel for manipulation and review of the dataset and focused on US based campaigns that were historically successful, failed and canceled for the covering the theater category.  
+An analysis was performed using the Kickstarter dataset of crowdfunding projects. This data set contained historical data of various US region projects covering categories such as film, music, games, technology, theater, video and other subjects, where money was raised in order to produce and present numerous public and private performances.  These performances included a large set of approximately 41 subcategories of entertainment covering animation, documentary, drama, music, musicals, plays and television productions.  The analysis utilized Excel for manipulation and review of the dataset and focused on US based campaigns that were historically successful, failed and canceled for the theaterical plays category.  
 
 ### Analysis of Outcomes Based on Launch Date
 
-The analysis of outcomes based on launch date looked at the parent category of theater plays for all US campaigns and all years of data available.  The data was filtered to included the successful, failed and canceled campaigns and summed these up on a monthly basis in order to identify when the most successful months of campaign launches occurred.  See the resulting line chart of the **Theater Outcomes Based on Launch Date** below.
+The analysis of outcomes based on launch date looked at the parent category of theater plays for all US campaigns and all years of data available.  The data was filtered to include the successful, failed and canceled campaigns and summed these up on a monthly basis in order to identify when the most successful months of campaign launches occurred.  See the resulting line chart of the **Theater Outcomes Based on Launch Date** below.
           
 ![Line Chart 1](resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
-The analysis of outcomes based on campaign goals looked at the same parent category of theater plays for all US campaigns and all campaign amounts.  The data was counted and grouped by 12 varying goal amounts for the successful, failed and canceled campaigns.  The total number of projects were summed with the percentage of successful and failed campaigns by goal amount to identify the most successful campaigns by the dollar amount goal category.  See the resulting line chart of the **Outcomes Based on Goal** below.
+The analysis of outcomes based on campaign goals looked at the same parent category of theater plays for all US campaigns and all campaign amounts.  The data was counted and grouped by 12 varying goal amounts for the successful, failed and canceled campaigns.  The total number of projects were summed and the percentage of successful and failed campaigns by goal amount were used to identify the most successful campaigns by the dollar amount of goal category.  See the resulting line chart of the **Outcomes Based on Goal** below.
 
 ![Line Chart 2](resources/Outcomes_vs_Goals.png)
 
