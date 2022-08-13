@@ -13,12 +13,17 @@ An analysis was performed using the Kickstarter dataset of crowdfunding projects
 
 ### Analysis of Outcomes Based on Launch Date
 
-The analysis of outcomes based on launch date looked at the parent category of theater for all US campaigns and all years of data available.  The data was filtered to included the successful, failed and canceled campaigns and summed these up on a monthly basis in order to identify when the most successful months of campaign launches occurred.  See the resulting line chart of the **Theater Outcomes Based on Launch Date** below.
+The analysis of outcomes based on launch date looked at the parent category of theater plays for all US campaigns and all years of data available.  The data was filtered to included the successful, failed and canceled campaigns and summed these up on a monthly basis in order to identify when the most successful months of campaign launches occurred.  See the resulting line chart of the **Theater Outcomes Based on Launch Date** below.
           
-![Line Chart 1](resources/Outcomes_vs_Goals.png)
+![Line Chart 1](resources/Theater_Outcomes_vs_Launch.png)
+
 
 
 ### Analysis of Outcomes Based on Goals
+
+The analysis of outcomes based on campaign goals looked at the same parent category of theater plays for all US campaigns and all campaign amounts.  The data was counted and grouped by 12 varying goal amounts for the successful, failed and canceled campaigns.  The total number of projects were summed with the percentage of successful and failed campaigns by goal amount to identify the most successful campaigns by the dollar amount goal category.  See the resulting line chart of the ** Outcomes Based on Goal** below.
+
+![Line Chart 2](resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 The data was filtered and analyzed using a variety of excel functions such as COUNTIF, SUM, PivotTables, grouping of data and Line Charts to visually present the results of the analysis. Challenges included getting the functions to present the data in specific order and manipulation of the Excel tools to adequately and effectively present the data in a valuable and helpful manner.
