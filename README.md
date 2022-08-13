@@ -14,10 +14,8 @@ An analysis was performed using the Kickstarter dataset of crowdfunding projects
 ### Analysis of Outcomes Based on Launch Date
 
 The analysis of outcomes based on launch date looked at the parent category of theater for all US campaigns and all years of data available.  The data was filtered to included the successful, failed and canceled campaigns and summed these up on a monthly basis in order to identify when the most successful months of campaign launches occurred.  See the resulting line chart of the **Theater Outcomes Based on Launch Date** below.
-
-![This is an image]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/dfwdamon/kickstarter-analysis/blob/4e8f30eb57372b189d7c41047dedec4007d731b6/resources/Outcomes_vs_Goals.png))
-
-resources/Outcomes_vs_Goals.png
+          
+![Line Chart 1](resources/Outcomes_vs_Goals.png)
 
 
 ### Analysis of Outcomes Based on Goals
