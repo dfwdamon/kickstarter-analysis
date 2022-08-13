@@ -17,11 +17,9 @@ The analysis of outcomes based on launch date looked at the parent category of t
           
 ![Line Chart 1](resources/Theater_Outcomes_vs_Launch.png)
 
-
-
 ### Analysis of Outcomes Based on Goals
 
-The analysis of outcomes based on campaign goals looked at the same parent category of theater plays for all US campaigns and all campaign amounts.  The data was counted and grouped by 12 varying goal amounts for the successful, failed and canceled campaigns.  The total number of projects were summed with the percentage of successful and failed campaigns by goal amount to identify the most successful campaigns by the dollar amount goal category.  See the resulting line chart of the ** Outcomes Based on Goal** below.
+The analysis of outcomes based on campaign goals looked at the same parent category of theater plays for all US campaigns and all campaign amounts.  The data was counted and grouped by 12 varying goal amounts for the successful, failed and canceled campaigns.  The total number of projects were summed with the percentage of successful and failed campaigns by goal amount to identify the most successful campaigns by the dollar amount goal category.  See the resulting line chart of the **Outcomes Based on Goal** below.
 
 ![Line Chart 2](resources/Outcomes_vs_Goals.png)
 
