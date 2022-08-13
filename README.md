@@ -24,7 +24,7 @@ The analysis of outcomes based on campaign goals looked at the same parent categ
 ![Line Chart 2](resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
-The data was filtered and analyzed using a variety of excel functions such as COUNTIF, SUM, PivotTables, grouping of data and Line Charts to visually present the results of the analysis. Challenges included getting the functions to present the data in specific order and manipulation of the Excel tools to adequately and effectively present the data in a valuable and helpful manner.
+The data was filtered and analyzed using a variety of excel functions such as `COUNTIF`, `SUM`, PivotTables, grouping of data and Line Charts to visually present the results of the analysis. Challenges included getting the functions to present the data in specific order and manipulation of the Excel tools to adequately and effectively present the data in a valuable and helpful manner.
 
 ## Results
 
