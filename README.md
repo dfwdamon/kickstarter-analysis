@@ -32,7 +32,7 @@ Two conclusions from the analysis of the Theater Outcomes by Launch date were On
 
 - What can you conclude about the Outcomes based on Goals?
 
-The analysis of outcomes based on goals revealed that of the campaigns, the highest percentage of successful campaigns were those that had campaign goals in amounts of $5,000 or less.  76% of all successful campaigns were in this range, and 73% of the campaigns with fundraising goals of $1000 to $5,000 were successful.  Fore failed campaigns, those with fundraising goals between 15,000 to 50,000 or more, had a 50% change or higher of failure. Campaigns in the 45,000 or higher had resulted in a nearly 100% chance of failure. 
+The analysis of outcomes based on goals revealed that of the campaigns, the highest percentage of successful campaigns were those that had campaign goals in amounts of $5,000 or less.  76% of all successful campaigns were in this range, and 73% of the campaigns with fundraising goals of $1,000 to $5,000 were successful.  Fore failed campaigns, those with fundraising goals between $15,000 to $50,000 or more, had a 50% change or higher of failure. Campaigns in the 45,000 or higher had resulted in a nearly 100% chance of failure. 
 
 - What are some limitations of this dataset?
 
